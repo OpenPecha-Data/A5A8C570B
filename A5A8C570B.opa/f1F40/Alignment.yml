@@ -1,0 +1,19 @@
+segment_sources:
+  I7753D8A3:
+    type: origin_type
+    relation: translation
+    language: en
+  I3AA33E32:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1f8a1fa1a60c401baebf8cd0a3e960e2:
+    I7753D8A3: df9f2e7760a945ea9a60951cbdf2b3e9
+    I3AA33E32: 3c44291b6e1246f7ad8e21c6a261a081
+  fd74c72a553c4cd1a0e1d3c905ac86ba:
+    I7753D8A3: 93c49b2ed8fd4d75adc043ef8ad5971d
+    I3AA33E32: bf1c3dfc461942449f6927ea81ed5882
+  59b34e57c7c6421c9a9c16dee9f1b594:
+    I7753D8A3: 1c1a63b3016f498a8f44e056738b3962
+    I3AA33E32: 160e66bfc9184fcdb02137e23d866a97
